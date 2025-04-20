@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello everyone!
 
-<!--
-**SSMikael/SSMikael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mikael, I'm 20 years old, and I am currently studying Analisys and Development System's at the Mogi das Cruzes Technologycal Faculty (FATEC).
 
-Here are some ideas to get you started:
+# Work ⚡
+I'm currently working with Electronical Maintenaince and also studying Electrical Engineering in Braz Cubas Faculty, also known as UBC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hobbies 
+Create electrical project's are one of my favorite hobbies, but, study and coding are my passion...
+
+# My Objectives 🔭
+I'm very new to the programming world, and my main objective is to collaborate and practice more to enhance my knowledge.
+
+I aim to contribute to and work on real projects to gain practical experience.
+
+I primarily work with C and C++, but I am open to learning other languages.
+
+# About Me
